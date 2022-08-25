@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//cksgml12345.github.io/movie/static/css/main.33cf266d.css",
+    "main.js": "/https//cksgml12345.github.io/movie/static/js/main.b89a3568.js",
+    "index.html": "/https//cksgml12345.github.io/movie/index.html",
+    "main.33cf266d.css.map": "/https//cksgml12345.github.io/movie/static/css/main.33cf266d.css.map",
+    "main.b89a3568.js.map": "/https//cksgml12345.github.io/movie/static/js/main.b89a3568.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33cf266d.css",
+    "static/js/main.b89a3568.js"
+  ]
+}
